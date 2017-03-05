@@ -2,8 +2,7 @@ James Turner
 ===
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-Basic intro to how awesome I am
-
+I love problem solvingm
 ***
 ### <a name="skills">Skills</a>
 ####Fast Learner
@@ -11,11 +10,13 @@ Basic intro to how awesome I am
 ***
 
 ### <a name="projects">Projects & Code</a>
-#### chitter
+#### Chitter
+#### AtomicWars
 ***
 
 ### <a name="Education">Education</a>
 #### Makers Academy
+#### Bradford University
 ***
 
 ### <a name="experience">Experience</a>
@@ -25,3 +26,6 @@ Responsible for proccessing large point clouds gathered from LiDAR scanners into
 ***
 
 ### <a name="interests">Interests</a>
+Puzzle/Escape rooms
+Problem solving
+Kick boxing
