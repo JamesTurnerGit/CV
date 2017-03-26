@@ -1,6 +1,4 @@
 # James Turner
-
-===
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. I'm changing to a career where I can satisfy my desire to continuously work on new problems.
