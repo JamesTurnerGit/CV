@@ -31,8 +31,10 @@ A tower defence game built in unity. While the main goal of undertaking the proj
 ### <a name="experience">Experience</a> 
 #### NM group 2012-2016 
 Responsible for processing large point clouds gathered from LiDAR scanners into accurate computer simulations of overhead powerlines and other utilities. During my time here my love for coding and puzzle solving was reignited. 
+
 The key moment of this was during a job surveying Britain’s railways where we had a systematic issue with our ground model. Normally we’d have to do rework from scratch to solve this and that’d cost several thousand pounds in man-hours alone. On my own initiative, I wrote a script that was able to find and correct the issues without damaging the rest of the data. From then on the script was used regularly throughout the day by our processors. 
- Solved a lot of additional problems in production by continuing to write scripts in python and MicroStation Basic.  
+
+Solved a lot of additional problems in production by continuing to write scripts in python and MicroStation Basic.  
 #### Energy bar 2008 - 2009 
 Waiter and cook, also responsible for locking up and opening shop. Frequently was the sole operator at our busy shop. Strengthened Time management and prioritisation skills.  
 #### Harrogate Hospital 2007-2008 
