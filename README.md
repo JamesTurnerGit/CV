@@ -2,18 +2,18 @@ James Turner
 ===
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-Problem-solving is my default state. I’m never happier than when I have a fresh challenge to tackle.
+Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle.
 
 ***
 ### <a name="skills">Skills</a>
-####Fast Learner
+#### Fast Learner
 
-####Good Teamwork
+#### Good Teamwork
 
-####Puzzle solving
+#### Puzzle solving
 *
 
-####Self-challenging
+#### Self-challenging
 * Persistently pushing myself in areas I know I need work on.
 * Not satisfied with the Easy route (unless it's also the Best route!)
 
