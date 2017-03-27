@@ -40,18 +40,18 @@ Helped people find their way around the hospital, helped wheelchair bound people
 
 ### Phase 4 Computers 2006-2007 
 
-Responsible for repairing machines hardware and software. This job appealed directly to my love of puzzle solving. Each machine was a new puzzle for me to sink my teeth into. Here I learned Good time management. 
+Responsible for repairing machines hardware and software. This job appealed directly to my love of puzzle solving. Each machine was a new puzzle for me to sink my teeth into. Expereienced working to tight deadlines and limited resoureces.
 *** 
 
 ## <a name="Education">Education</a>
 
 ### Makers Academy
 
-Built upon my foundation of learning by studying new concepts like TDD, SOLID, MVC and more. Changed my patterns of thinking about programming to result in much neater code than before I started.
+Built upon my foundation of learning by studying new concepts like TDD, SOLID, MVC and more. Changed my patterns of thinking about programming to result in writing much neater code than before I started.
 
 ### 2 years at Bradford University
 
-Studied Cybernetics and virtual worlds - this included subjects like Human interface design, Robotics and Programming.
+Studied Cybernetics and virtual worlds - this included subjects like Human interface design, Robotics and Programming. Programming specifically involved basic neural networks and other control systems as well as basic OOD.
 ***
 
 ## <a name="interests">Interests</a>
