@@ -1,22 +1,14 @@
 # James Turner
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. I'm changing to a career where I can satisfy my desire to continuously work on new problems.
+I'm a full-Stack multi-language developer. Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. My current goal is changing my career so I can satisfy my desire to continuously work on new problems.
 
 ***
 ## <a name="skills">Skills</a>
-### Fast Learner
-* Adjusts to a new language in under a day.
-* Loves picking up new abilities
-### Good Teamwork
-* 
-
-### Puzzle solving
-*
-
-### Self-challenging
-* Persistently pushing myself in areas I know I need work on.
-* Not satisfied with the Easy route (unless it's also the Best route!)
+* Fast Learner
+* Good Teamwork
+* Puzzle solving
+* Self-challenging
 
 ***
 
@@ -63,8 +55,8 @@ Studied Cybernetics and virtual worlds - this included subjects like Human inter
 ***
 
 ## <a name="interests">Interests</a>
-* Puzzle/Escape rooms - Hold the best time at a local room.
-* Problem solving - 
+* Puzzle/Escape rooms 
+* Problem solving
 * Kick boxing
 * Climbing
 * Board Games
