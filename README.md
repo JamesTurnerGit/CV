@@ -28,7 +28,9 @@ Responsible for processing large point clouds gathered from LiDAR scanners into 
 
 The key moment of this was during a job surveying Britain’s railways where we had a systematic issue with our ground model. Normally we’d have to do rework from scratch to solve this and that’d cost several thousand pounds in man-hours alone. On my own initiative, I wrote a script that was able to find and correct the issues without damaging the rest of the data. From then on the script was used regularly throughout the day by our processors. 
 
-Solved a lot of additional problems in production by continuing to write scripts in python and MicroStation Basic.  
+Solved a lot of additional problems in production by continuing to write scripts in python and MicroStation Basic.
+
+Worked effectively on a small team to hit deadlines consistently.
 
 ### Energy bar 2008 - 2009 
 
@@ -40,7 +42,7 @@ Helped people find their way around the hospital, helped wheelchair bound people
 
 ### Phase 4 Computers 2006-2007 
 
-Responsible for repairing machines hardware and software. This job appealed directly to my love of puzzle solving. Each machine was a new puzzle for me to sink my teeth into. Expereienced working to tight deadlines and limited resoureces.
+Responsible for repairing machines hardware and software. This job appealed directly to my love of puzzle solving. Each machine was a new puzzle for me to sink my teeth into. Worked to tight deadlines and limited resources.
 *** 
 
 ## <a name="Education">Education</a>
