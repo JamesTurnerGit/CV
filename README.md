@@ -17,7 +17,8 @@ Two projects out of many completed during makers that I particularly enjoyed con
 ### AtomicWars - [Atom.io](https://atom.io/packages/atomic-wars) - [GitHub](https://github.com/JamesTurnerGit/Atomic-Wars)
 A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This app also uploads your completed kata up to GitHub when you’ve submitted them.
 ### Thunder Warriors - [Web Demo](http://thunder-warriors.herokuapp.com/) - [GitHub](https://github.com/treborb/thunder-warriors)
-A tower defence game built in unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot more about code debt and refactoring. Halfway through we decided we’d rather start almost from scratch rather than keep the patterns we’d used while trying to get something working. It ended up being my favourite project during makers by far and I hope to develop what we have created further as time goes on.
+A tower defence game built in unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot more about code debt and refactoring. Halfway through we decided we’d rather start almost from scratch rather than keep the patterns we’d used while trying to get something working. It ended up being my favourite project during makers by far and something i'm continuing to develop post-makers by trying to add multiplayer.
+
 ***
 
 ## <a name="experience">Experience</a> 
