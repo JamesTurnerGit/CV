@@ -1,6 +1,9 @@
 # James Turner
+
 email : mail.jt@gmai.com
+
 phone number: 07801980605
+
 github : https://github.com/JamesTurnerGit/CV
 
 I'm a full-Stack multi-language developer. Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. My current goal is changing my career so I can satisfy my desire to continuously work on new problems. Very willing to move anywhere in the country.
