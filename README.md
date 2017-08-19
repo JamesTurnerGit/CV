@@ -60,7 +60,6 @@ Studied Cybernetics and virtual worlds - this included subjects like Human inter
 ***
 
 ## <a name="interests">Interests</a>
-* Puzzle/Escape rooms 
 * Problem solving
 * Kick boxing
 * Climbing
