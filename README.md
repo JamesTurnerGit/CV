@@ -24,6 +24,13 @@ Tech test made for honeyComb.tv over three days, Simple challenge was to apply d
 ***
 
 ## <a name="experience">Experience</a> 
+### LexisNexis-Enterprise Solutions
+#### Software Engineer Apr 2018 — present
+Developed a PWA app hosted on a .net webserver, running off a service-fabric backend that integrated with dynamics 365 via Odata and synchronises across multiple devices
+#### QA engineer Oct 2017 — Apr 2018 
+using selenium, gerkin and C#, I worked on the testing project for the main product.
+
+I've written several of the frameworks that it used from scratch, including one that was able to do frontend and interaction testing on powerbi
 
 ### NM group 2012-2016 
 
