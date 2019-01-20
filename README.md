@@ -5,9 +5,9 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 
 ## <a name="skills">Skills and Technologies</a>
 <pre>
-  JavaScript      Polymer 3.0     Selenium       C#              TDD/BDD         Ruby-on-rails   CouchDb         
-  Node.js         .net            Gerkin         PowerBi         CouchDb         BlockChain      Python
-  Azure DevOps    CosmosDb        ServiceFabric 
+  JavaScript      Polymer 3.0     Selenium       C#              TDD/BDD         Ruby-on-rails         
+  Node.js         .net            Gerkin         PowerBi         BlockChain      Python
+  Azure DevOps    CosmosDb        ServiceFabric  CouchDb   
 </pre>
 
 ## <a name="experience">Experience</a> 
@@ -34,19 +34,6 @@ The key moment of this was during a job surveying Britain’s railways where we 
 Solved a lot of additional problems in production by continuing to write scripts in python and MicroStation Basic.
 
 Worked effectively on a small team to hit deadlines consistently.
-
-### Energy bar 2008 - 2009 
-
-Waiter and cook, also responsible for locking up and opening shop. Frequently was the sole operator at our busy shop. Strengthened Time management and prioritisation skills.  
-
-### Harrogate Hospital 2007-2008 
-
-Helped people find their way around the hospital, helped wheelchair bound people move around the building, ran samples from the front desk to the labs. 
-
-### Phase 4 Computers 2006-2007 
-
-Responsible for repairing machines hardware and software. This job appealed directly to my love of puzzle solving. Each machine was a new puzzle for me to sink my teeth into. Worked to tight deadlines and limited resources.
-
 ***
 ## <a name="Education">Education</a>
 
