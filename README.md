@@ -49,6 +49,5 @@ A tower defence game built in unity. While the main goal of undertaking the proj
 
 ***
 ## <a name="interests">Interests</a>
-<pre> 
-  Problem solving      Board Games     puzzles
-</pre>
+<pre>  Problem solving      Board Games     puzzles</pre>
+
