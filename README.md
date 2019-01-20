@@ -1,5 +1,5 @@
 # James Turner
-[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [Experience](#experience)| [Education](#education)| [older Projects](#projects) | [Interests](#interests)
 
 I'm a full-Stack multi-language developer with two years experience. Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. I'm looking for a new challenge in life.
 
@@ -11,6 +11,7 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 * Self-challenging
 
 ***
+
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
@@ -45,6 +46,20 @@ Responsible for repairing machines hardware and software. This job appealed dire
 
 *** 
 
+
+***
+## <a name="Education">Education</a>
+
+### Makers Academy
+
+Built upon my foundation of learning by studying new concepts like TDD, SOLID, MVC and more. Changed my patterns of thinking about programming to result in writing much neater code than before I started.
+
+### 2 years at Bradford University
+
+Studied Cybernetics and virtual worlds - this included subjects like Human interface design, Robotics and Programming. Programming specifically involved basic neural networks and other control systems as well as basic OOD.
+
+***
+
 ## <a name="projects">Projects & Code</a>
 older projects I did when i was still at makers- I'm going to be working on new stuff i can post publicly over the next few weeks.
 
@@ -55,18 +70,6 @@ A tower defence game built in unity. While the main goal of undertaking the proj
 ### Discount System - [GitHub](https://github.com/JamesTurnerGit/HoneyCombTechTest)
 Tech test made for honeyComb.tv over three days, Simple challenge was to apply discounts to a shopping order based on varying conditions. Had some fun and made a very configurable and expandable system for generating and applying new types of discounts.
 
-***
-
-
-## <a name="Education">Education</a>
-
-### Makers Academy
-
-Built upon my foundation of learning by studying new concepts like TDD, SOLID, MVC and more. Changed my patterns of thinking about programming to result in writing much neater code than before I started.
-
-### 2 years at Bradford University
-
-Studied Cybernetics and virtual worlds - this included subjects like Human interface design, Robotics and Programming. Programming specifically involved basic neural networks and other control systems as well as basic OOD.
 ***
 
 ## <a name="interests">Interests</a>
