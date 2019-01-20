@@ -61,8 +61,9 @@ Studied Cybernetics and virtual worlds - this included subjects like Human inter
 ***
 
 ## <a name="projects">Projects & Code</a>
-older projects completed while I was still at makers - Will be uppdated soon with newer projects.
 
+### DCDC - [blog](https://blog.dcdc.io/)
+A upcoming fork of neo based around Securely proving identity and personal details without revealing any more than you have to, and being able to do so digitally and remotely via simple methods. Leverages blockchain technology to produce complete end-to-end security.
 ### AtomicWars - [Atom.io](https://atom.io/packages/atomic-wars) - [GitHub](https://github.com/JamesTurnerGit/Atomic-Wars)
 A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This app also uploads your completed kata up to GitHub when you’ve submitted them.
 ### Thunder Warriors - [Web Demo](http://thunder-warriors.herokuapp.com/) - [GitHub](https://github.com/treborb/thunder-warriors)
