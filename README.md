@@ -1,5 +1,5 @@
 # James Turner
-[Experience](#experience)| [Education](#education)| [older Projects](#projects) | [Interests](#interests)
+[Experience](#experience) | [Education](#education) | [older Projects](#projects) | [Interests](#interests)
 
 I'm a full-Stack multi-language developer with two years experience. Problem-solving is my natural state and I work well in teams. I’m never happier than when I have a fresh challenge to tackle and something new to learn. I'm always looking for new challenges and ways to test and improve myself.
 
