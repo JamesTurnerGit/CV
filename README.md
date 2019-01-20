@@ -1,7 +1,7 @@
 # James Turner
 [Skills](#skills) | [Experience](#experience)| [Education](#education)| [older Projects](#projects) | [Interests](#interests)
 
-I'm a full-Stack multi-language developer with two years experience. Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. I'm looking for a new challenge in life.
+I'm a full-Stack multi-language developer with two years experience. Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. I'm looking for new challenges.
 
 ***
 ## <a name="skills">Skills</a>
@@ -15,12 +15,25 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
-Developed a PWA app hosted on a .net webserver, running off a service-fabric backend that integrated with dynamics 365 via Odata that synchronises across multiple devices.
+Developed a PWA app that runs off a microservices based backend that integrates with dynamics 365. App synchronises accross multible devices and runs on any modern device and is offline-first.
+
+Technologies used:
+* JavaScript
+* Polymer 3.0
+* .net
+* Service fabric
+* Dynamics 365
 
 #### QA engineer Oct 2017 — Apr 2018 
-using selenium, gerkin and C#, I worked on the testing project for the main product, renovating and refatoring large sections and improving performance and ease of use while driving upskilling for the QA team.
+Wrote several frameworks from scratch, including a piece that was able to do frontend and interaction testing on powerbi, and one that was able to parse report outputs in a convienent and straightforward way.
 
-wrote several frameworks from scratch, including a piece that was able to do frontend and interaction testing on powerbi, and one that was able to parse report outputs in a convienent way.
+Worked on the testing project for the main product, renovating and refatoring large sections and improving performance and ease of use while driving upskilling for the QA team.
+
+Technologies used:
+* Selenium
+* Gerkin
+* C#
+* JavaScript
 
 ### NM group 2012-2016 
 
@@ -43,9 +56,6 @@ Helped people find their way around the hospital, helped wheelchair bound people
 ### Phase 4 Computers 2006-2007 
 
 Responsible for repairing machines hardware and software. This job appealed directly to my love of puzzle solving. Each machine was a new puzzle for me to sink my teeth into. Worked to tight deadlines and limited resources.
-
-*** 
-
 
 ***
 ## <a name="Education">Education</a>
