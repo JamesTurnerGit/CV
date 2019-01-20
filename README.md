@@ -18,7 +18,7 @@ Helped run and organise a blockchain hackathon. Was involved from the very initi
 
 Helped teams transition from a scrum methodology to a Kanban approach.
 #### QA Engineer Oct 2017 — Apr 2018 
-Wrote several frameworks from scratch, including a piece that was able to do front-end and interaction testing on Power BI, and one that was able to parse report outputs in a convenient and straightforward way.
+Wrote several testing packages from scratch, which included one that was able to do front-end and interaction testing on Power BI, and another that was able to parse report outputs in a convenient and straightforward way.
 
 Worked on the testing project for the main product, renovating and refactoring large sections and improving performance and ease of use while driving up-skilling for the QA team.
 
