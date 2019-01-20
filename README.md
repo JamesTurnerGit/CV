@@ -5,8 +5,9 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 
 ## <a name="skills">Skills and Technologies</a>
 <pre>
-  JavaScript      Polymer 3.0     Selenium       C#              TDD             Ruby-on-rails   CouchDb         BlockChain
-  Node.js         .net            Gerkin         Python          Azure DevOps    CosmosDb        ServiceFabric
+  JavaScript      Polymer 3.0     Selenium       C#              TDD/BDD         Ruby-on-rails   CouchDb         
+  Node.js         .net            Gerkin         PowerBi         CouchDb         BlockChain      BlockChain
+  Azure DevOps    CosmosDb        ServiceFabric
 </pre>
 
 ## <a name="experience">Experience</a> 
