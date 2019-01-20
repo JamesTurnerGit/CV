@@ -19,11 +19,11 @@ Helped run and organise a blockchain hackathon. Was involved from the very initi
 
 Helped teams transition from a scrum methodology to a Kanban approach.
 #### QA engineer Oct 2017 — Apr 2018 
-Wrote several frameworks from scratch, including a piece that was able to do frontend and interaction testing on powerbi, and one that was able to parse report outputs in a convienent and straightforward way.
+Wrote several frameworks from scratch, including a piece that was able to do front-end and interaction testing on power BI, and one that was able to parse report outputs in a convenient and straightforward way.
 
-Worked on the testing project for the main product, renovating and refatoring large sections and improving performance and ease of use while driving upskilling for the QA team. 
+Worked on the testing project for the main product, renovating and refactoring large sections and improving performance and ease of use while driving up-skilling for the QA team.
 
-Ran large scale SAT's on the companies main product and wrote up documention and procedures surrounding it
+Ran large scale SAT's on the companies main product and wrote up documentation and procedures surrounding it.
 
 ### Makers Academy
 Built upon my foundation of learning by studying new concepts like TDD, SOLID, MVC and more. Changed my patterns of thinking about programming to result in writing much neater code than before I started.
