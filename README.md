@@ -1,5 +1,5 @@
 # James Turner
-[skills/technologies](#skills) | [Experience](#experience) | [older Projects](#projects) | [Interests](#interests)
+[skills/technologies](#skills) | [Experience](#experience) | [Projects](#projects) | [Interests](#interests)
 
 A full-Stack multi-language developer with two years experience. Problem-solving is my natural state and I work well in agile teams. I’m never happier than when I have a fresh challenge to tackle and something new to learn. I'm always looking for new challenges and ways to test and improve myself.
 
