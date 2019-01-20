@@ -1,7 +1,14 @@
 # James Turner
-[Experience](#experience) | [Education](#education) | [older Projects](#projects) | [Interests](#interests)
+[skills/technologies](#skills) |[Experience](#experience) | [Education](#education) | [older Projects](#projects) | [Interests](#interests)
 
 I'm a full-Stack multi-language developer with two years experience. Problem-solving is my natural state and I work well in teams. I’m never happier than when I have a fresh challenge to tackle and something new to learn. I'm always looking for new challenges and ways to test and improve myself.
+
+***
+## <a name="skills">Skills and Technologies</a>
+<pre>
+  JavaScript          Polymer 3.0         Selenium           C#                  TDD
+  Node.js             .net                Gerkin             ServiceFabric       Python              
+</pre>
 
 ***
 ## <a name="experience">Experience</a> 
@@ -11,23 +18,10 @@ Developed a PWA app that runs off a microservices based backend that integrates 
 
 Helped run and organise a blockchain hackathon. Was involved from the initial planning stages to the latenight cleanup. [FIXTHIS]
 
-Technologies used:
-* JavaScript
-* Polymer 3.0
-* .net
-* Service fabric
-* Dynamics 365
-
 #### QA engineer Oct 2017 — Apr 2018 
 Wrote several frameworks from scratch, including a piece that was able to do frontend and interaction testing on powerbi, and one that was able to parse report outputs in a convienent and straightforward way.
 
 Worked on the testing project for the main product, renovating and refatoring large sections and improving performance and ease of use while driving upskilling for the QA team.
-
-Technologies used:
-* Selenium
-* Gerkin
-* C#
-* JavaScript
 
 ### NM group 2012-2016 
 
