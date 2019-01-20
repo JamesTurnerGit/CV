@@ -1,17 +1,9 @@
 # James Turner
-[Skills](#skills) | [Experience](#experience)| [Education](#education)| [older Projects](#projects) | [Interests](#interests)
+[Experience](#experience)| [Education](#education)| [older Projects](#projects) | [Interests](#interests)
 
-I'm a full-Stack multi-language developer with two years experience. Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. I'm looking for new challenges.
-
-***
-## <a name="skills">Skills</a>
-* Fast Learner
-* Good Teamwork
-* Puzzle solving
-* Self-challenging
+I'm a full-Stack multi-language developer with two years experience. Problem-solving is my natural state and I work well in teams. I’m never happier than when I have a fresh challenge to tackle and something new to learn. I'm always looking for new challenges and ways to test and improve myself.
 
 ***
-
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
