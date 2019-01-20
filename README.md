@@ -5,9 +5,9 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 
 ## <a name="skills">Skills and Technologies</a>
 <pre>
-  JavaScript      Polymer 3.0   Selenium       TDD/BDD      Ruby-on-rails   C#
-  Node.js         Gerkin        PowerBi        BlockChain   Python          .net
-  Azure DevOps    CosmosDb      ServiceFabric  CouchDb
+  JavaScript      Polymer 3.0   Selenium         TDD/BDD       Ruby-on-rails   C#
+  Node.js         Gerkin        PowerBi          BlockChain    Python          .net
+  Azure DevOps    CosmosDb      ServiceFabric    CouchDb
 </pre>
 
 ## <a name="experience">Experience</a> 
@@ -41,11 +41,11 @@ Worked effectively on a small team to hit deadlines consistently.
 ***
 ## <a name="projects">Projects & Code</a>
 ### DCDC - [blog](https://blog.dcdc.io/)
-A upcoming fork of neo based around Securely proving identity and personal details without revealing any more than you have to, and being able to do so digitally and remotely via simple methods. Leverages blockchain technology to produce complete end-to-end security.
+A blockchain solution for controlling, managing and sharing parts of your own identity; Originated from a hackathon in London over a 24 hour period and is being expended in our free time to become a usable platform in the future.
 ### AtomicWars - [Atom.io](https://atom.io/packages/atomic-wars) - [GitHub](https://github.com/JamesTurnerGit/Atomic-Wars)
 A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This app also uploads your completed kata up to GitHub when you’ve submitted them.
 ### Thunder Warriors - [Web Demo](http://thunder-warriors.herokuapp.com/) - [GitHub](https://github.com/treborb/thunder-warriors)
-A tower defence game built in unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot more about code debt and refactoring. Halfway through we decided we’d rather start almost from scratch rather than keep the patterns we’d used while trying to get something working. It ended up being my favourite project I worked on during makers by a long way.
+A tower defence game built in unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot about technical debt and refactoring. 
 
 ***
 ## <a name="interests">Interests</a>
