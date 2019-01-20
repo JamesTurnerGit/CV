@@ -1,5 +1,5 @@
 # James Turner
-[skills/technologies](#skills) | [Experience](#experience) | [Education](#education) | [older Projects](#projects) | [Interests](#interests)
+[skills/technologies](#skills) | [Experience](#experience) | [older Projects](#projects) | [Interests](#interests)
 
 I'm a full-Stack multi-language developer with two years experience. Problem-solving is my natural state and I work well in agile teams. I’m never happier than when I have a fresh challenge to tackle and something new to learn. I'm always looking for new challenges and ways to test and improve myself.
 
@@ -25,6 +25,9 @@ Worked on the testing project for the main product, renovating and refatoring la
 
 Ran large scale SAT's on the companies main product and wrote up documention and procedures surrounding it
 
+### Makers Academy
+Built upon my foundation of learning by studying new concepts like TDD, SOLID, MVC and more. Changed my patterns of thinking about programming to result in writing much neater code than before I started.
+
 ### NM group 2012-2016 
 
 Responsible for processing large point clouds gathered from LiDAR scanners into accurate computer simulations of overhead powerlines and other utilities. During my time here my love for coding and puzzle solving was reignited. 
@@ -34,16 +37,6 @@ The key moment of this was during a job surveying Britain’s railways where we 
 Solved a lot of additional problems in production by continuing to write scripts in python and MicroStation Basic.
 
 Worked effectively on a small team to hit deadlines consistently.
-***
-## <a name="Education">Education</a>
-
-### Makers Academy
-
-Built upon my foundation of learning by studying new concepts like TDD, SOLID, MVC and more. Changed my patterns of thinking about programming to result in writing much neater code than before I started.
-
-### 2 years at Bradford University
-
-Studied Cybernetics and virtual worlds - this included subjects like Human interface design, Robotics and Programming. Programming specifically involved basic neural networks and other control systems as well as basic OOD.
 
 ***
 
@@ -55,8 +48,6 @@ A upcoming fork of neo based around Securely proving identity and personal detai
 A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This app also uploads your completed kata up to GitHub when you’ve submitted them.
 ### Thunder Warriors - [Web Demo](http://thunder-warriors.herokuapp.com/) - [GitHub](https://github.com/treborb/thunder-warriors)
 A tower defence game built in unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot more about code debt and refactoring. Halfway through we decided we’d rather start almost from scratch rather than keep the patterns we’d used while trying to get something working. It ended up being my favourite project I worked on during makers by a long way.
-### Discount System - [GitHub](https://github.com/JamesTurnerGit/HoneyCombTechTest)
-Tech test made for honeyComb.tv over three days, Simple challenge was to apply discounts to a shopping order based on varying conditions. Had some fun and made a very configurable and expandable system for generating and applying new types of discounts.
 
 ***
 
