@@ -39,9 +39,7 @@ Solved a lot of additional problems in production by continuing to write scripts
 Worked effectively on a small team to hit deadlines consistently.
 
 ***
-
 ## <a name="projects">Projects & Code</a>
-
 ### DCDC - [blog](https://blog.dcdc.io/)
 A upcoming fork of neo based around Securely proving identity and personal details without revealing any more than you have to, and being able to do so digitally and remotely via simple methods. Leverages blockchain technology to produce complete end-to-end security.
 ### AtomicWars - [Atom.io](https://atom.io/packages/atomic-wars) - [GitHub](https://github.com/JamesTurnerGit/Atomic-Wars)
@@ -50,8 +48,7 @@ A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata fo
 A tower defence game built in unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot more about code debt and refactoring. Halfway through we decided we’d rather start almost from scratch rather than keep the patterns we’d used while trying to get something working. It ended up being my favourite project I worked on during makers by a long way.
 
 ***
-
 ## <a name="interests">Interests</a>
-* Problem solving
-* Board Games
-* Rubix cubes
+<pre> 
+  Problem solving      Board Games     puzzles
+</pre>
