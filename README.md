@@ -10,14 +10,16 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 * Puzzle solving
 * Self-challenging
 
+***
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
-Developed a PWA app hosted on a .net webserver, running off a service-fabric backend that integrated with dynamics 365 via Odata and synchronises across multiple devices
-#### QA engineer Oct 2017 — Apr 2018 
-using selenium, gerkin and C#, I worked on the testing project for the main product.
+Developed a PWA app hosted on a .net webserver, running off a service-fabric backend that integrated with dynamics 365 via Odata that synchronises across multiple devices.
 
-I've written several of the frameworks that it used from scratch, including one that was able to do frontend and interaction testing on powerbi
+#### QA engineer Oct 2017 — Apr 2018 
+using selenium, gerkin and C#, I worked on the testing project for the main product, renovating and refatoring large sections and improving performance and ease of use while driving upskilling for the QA team.
+
+wrote several frameworks from scratch, including a piece that was able to do frontend and interaction testing on powerbi, and one that was able to parse report outputs in a convienent way.
 
 ### NM group 2012-2016 
 
@@ -40,6 +42,7 @@ Helped people find their way around the hospital, helped wheelchair bound people
 ### Phase 4 Computers 2006-2007 
 
 Responsible for repairing machines hardware and software. This job appealed directly to my love of puzzle solving. Each machine was a new puzzle for me to sink my teeth into. Worked to tight deadlines and limited resources.
+
 *** 
 
 ## <a name="projects">Projects & Code</a>
