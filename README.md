@@ -5,8 +5,8 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 
 ## <a name="skills">Skills and Technologies</a>
 <pre>
-  JavaScript      Polymer 3.0     Selenium       C#              TDD             Ruby-on-rails   CouchDb
-  Node.js         .net            Gerkin         Python          Azure           CosmosDb        ServiceFabric
+  JavaScript      Polymer 3.0     Selenium       C#              TDD             Ruby-on-rails   CouchDb         BlockChain
+  Node.js         .net            Gerkin         Python          Azure DevOps    CosmosDb        ServiceFabric
 </pre>
 
 ## <a name="experience">Experience</a> 
@@ -14,12 +14,15 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 #### Software Engineer Apr 2018 — present
 Developed a PWA app that runs off a microservices based backend that integrates with dynamics 365. App synchronises accross multible devices and runs on any modern device and is offline-first.
 
-Helped run and organise a blockchain hackathon. Was involved from the initial planning stages to the latenight cleanup. [FIXTHIS]
+Helped run and organise a blockchain hackathon. Was involved from the very initial planning stages to the latenight cleanup. Event concluded very successfully and was a lot of fun.
 
+Helped teams transition from a scrum methodology to a Kanban approach.
 #### QA engineer Oct 2017 — Apr 2018 
 Wrote several frameworks from scratch, including a piece that was able to do frontend and interaction testing on powerbi, and one that was able to parse report outputs in a convienent and straightforward way.
 
-Worked on the testing project for the main product, renovating and refatoring large sections and improving performance and ease of use while driving upskilling for the QA team.
+Worked on the testing project for the main product, renovating and refatoring large sections and improving performance and ease of use while driving upskilling for the QA team. 
+
+Ran large scale SAT's on the companies main product and wrote up documention and procedures surrounding it
 
 ### NM group 2012-2016 
 
@@ -70,7 +73,5 @@ Tech test made for honeyComb.tv over three days, Simple challenge was to apply d
 
 ## <a name="interests">Interests</a>
 * Problem solving
-* Kick boxing
-* Climbing
 * Board Games
 * Rubix cubes
