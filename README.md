@@ -1,7 +1,7 @@
 # James Turner
 [skills/technologies](#skills) | [Experience](#experience) | [Projects](#projects) | [Interests](#interests)
 
-A full-stack multi-language developer with two years of experience. Problem-solving is my natural state and works well in agile teams. never happier than when presented with a fresh challenge to tackle and something new to learn. Always looking for new challenges and ways to improve.
+A full-stack multi-language developer with two years of experience. at home when problem-solving and working in agile teams. Welcomes fresh challenges and learning new skills. Always looking for ways to improve.
 
 ## <a name="skills">Skills and Technologies</a>
 <pre>
