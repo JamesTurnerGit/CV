@@ -7,7 +7,6 @@ A full-Stack multi-language developer with two years experience. Problem-solving
   Node.js         Gerkin        PowerBi          BlockChain    Python          .net
   Azure DevOps    CosmosDb      ServiceFabric    CouchDb
 </pre>
-
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
