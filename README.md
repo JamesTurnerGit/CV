@@ -12,13 +12,13 @@ A full-stack multi-language developer with two years of experience. at home when
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
-Developed a progress web app that runs off a microservices based backend that integrates with Microsoft Dynamics 365. The app synchronises accross multiple devices and runs on any modern device and is offline-first.
+Worked with a team on developing a progressive web app that runs off a microservices based backend that integrates with Microsoft Dynamics 365. The app synchronises accross multiple devices and runs on any modern device and is offline-first. Made significant contributions to the front and backend of the app.
 
 Helped run and organise a blockchain hackathon. Was involved from the very initial planning stages to the latenight cleanup. Event concluded very successfully and was a lot of fun.
 
 Helped teams transition from a scrum methodology to a Kanban approach.
 #### QA Engineer Oct 2017 — Apr 2018 
-Wrote several testing packages from scratch, which included one that was able to do front-end and interaction testing on Power BI, and another that was able to parse report outputs in a convenient and straightforward way.
+Wrote several testing packages from scratch, including one that was able to do front-end and interaction testing on Power BI, and another that was able to parse report outputs in a convenient and straightforward way.
 
 Worked on the testing project for the main product, renovating and refactoring large sections and improving performance and ease of use while driving up-skilling for the QA team.
 
