@@ -10,19 +10,6 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 * Puzzle solving
 * Self-challenging
 
-***
-
-## <a name="projects">Projects & Code</a>
-Some of my more current or favourite projects that I particularly enjoyed Working on.
-### AtomicWars - [Atom.io](https://atom.io/packages/atomic-wars) - [GitHub](https://github.com/JamesTurnerGit/Atomic-Wars)
-A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This app also uploads your completed kata up to GitHub when you’ve submitted them.
-### Thunder Warriors - [Web Demo](http://thunder-warriors.herokuapp.com/) - [GitHub](https://github.com/treborb/thunder-warriors)
-A tower defence game built in unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot more about code debt and refactoring. Halfway through we decided we’d rather start almost from scratch rather than keep the patterns we’d used while trying to get something working. It ended up being my favourite project I worked on during makers by a long way.
-### Discount System - [GitHub](https://github.com/JamesTurnerGit/HoneyCombTechTest)
-Tech test made for honeyComb.tv over three days, Simple challenge was to apply discounts to a shopping order based on varying conditions. Had some fun and made a very configurable and expandable system for generating and applying new types of discounts.
-
-***
-
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
@@ -54,6 +41,19 @@ Helped people find their way around the hospital, helped wheelchair bound people
 
 Responsible for repairing machines hardware and software. This job appealed directly to my love of puzzle solving. Each machine was a new puzzle for me to sink my teeth into. Worked to tight deadlines and limited resources.
 *** 
+
+## <a name="projects">Projects & Code</a>
+older projects I did when i was still at makers- I'm going to be working on new stuff i can post publicly over the next few weeks.
+
+### AtomicWars - [Atom.io](https://atom.io/packages/atomic-wars) - [GitHub](https://github.com/JamesTurnerGit/Atomic-Wars)
+A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This app also uploads your completed kata up to GitHub when you’ve submitted them.
+### Thunder Warriors - [Web Demo](http://thunder-warriors.herokuapp.com/) - [GitHub](https://github.com/treborb/thunder-warriors)
+A tower defence game built in unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot more about code debt and refactoring. Halfway through we decided we’d rather start almost from scratch rather than keep the patterns we’d used while trying to get something working. It ended up being my favourite project I worked on during makers by a long way.
+### Discount System - [GitHub](https://github.com/JamesTurnerGit/HoneyCombTechTest)
+Tech test made for honeyComb.tv over three days, Simple challenge was to apply discounts to a shopping order based on varying conditions. Had some fun and made a very configurable and expandable system for generating and applying new types of discounts.
+
+***
+
 
 ## <a name="Education">Education</a>
 
