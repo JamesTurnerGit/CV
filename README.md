@@ -61,7 +61,7 @@ Studied Cybernetics and virtual worlds - this included subjects like Human inter
 ***
 
 ## <a name="projects">Projects & Code</a>
-older projects I did when i was still at makers- I'm going to be working on new stuff i can post publicly over the next few weeks.
+older projects completed while I was still at makers - Will be uppdated soon with newer projects.
 
 ### AtomicWars - [Atom.io](https://atom.io/packages/atomic-wars) - [GitHub](https://github.com/JamesTurnerGit/Atomic-Wars)
 A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This app also uploads your completed kata up to GitHub when you’ve submitted them.
