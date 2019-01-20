@@ -1,7 +1,7 @@
 # James Turner
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I'm a full-Stack multi-language developer. Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. My current goal is changing my career so I can satisfy my desire to continuously work on new problems.
+I'm a full-Stack multi-language developer with two years experience. Problem-solving is my natural state. I’m never happier than when I have a fresh challenge to tackle. I'm looking for a new challenge in life.
 
 ***
 ## <a name="skills">Skills</a>
