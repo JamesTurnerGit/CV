@@ -9,7 +9,6 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
   Node.js             .net                Gerkin             ServiceFabric       Python              
 </pre>
 
-***
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
