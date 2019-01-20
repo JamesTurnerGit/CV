@@ -17,6 +17,8 @@ I'm a full-Stack multi-language developer with two years experience. Problem-sol
 #### Software Engineer Apr 2018 — present
 Developed a PWA app that runs off a microservices based backend that integrates with dynamics 365. App synchronises accross multible devices and runs on any modern device and is offline-first.
 
+Helped run and organise a blockchain hackathon. Was involved from the initial planning stages to the latenight cleanup. [FIXTHIS]
+
 Technologies used:
 * JavaScript
 * Polymer 3.0
