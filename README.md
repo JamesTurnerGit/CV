@@ -7,7 +7,7 @@ A full-stack multi-language developer with two years of experience. at home when
 ``` 
   JavaScript       Polymer 3.0     Selenium          TDD/BDD    Ruby-on-rails     
   Node.js          PowerBI         Block-chain       Python     .net
-  Azure DevOps     CosmosDB        ServiceFabric     CouchDB    C#
+  Azure DevOps     CosmosDB        Azure Service Fabric     CouchDB    C#
 ```
 ## <a name="experience">Experience and Education</a> 
 ### LexisNexis-Enterprise Solutions
@@ -31,7 +31,7 @@ Ran full scale regression testing on the company's main product before major rel
 Built upon my foundation of self-taught learning by studying new concepts like TDD, SOLID, MVC and more. This changed my patterns of thinking about programming to result in writing much neater code than before I started.
 
 ### NM Group 
-#### GIS Analyst Oct 2012- Dec 2016 
+#### GIS Analyst Oct 2012 — Dec 2016 
 Responsible for processing large point clouds gathered from LiDAR scanners into accurate computer simulations of overhead power-lines and other utilities. During my time here my love for coding and puzzle solving was reignited. 
 
 Fixed a systematic issue with a massive ground model with a custom script. saved several thousand pounds in man-hours alone. Decided to go into programming as a career because this event was so personally fulfilling.
