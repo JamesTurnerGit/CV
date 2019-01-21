@@ -41,7 +41,7 @@ Worked effectively on a small team which hit deadlines consistently.
 
 ***
 ## <a name="projects">Projects & Code</a>
-### DCDC - [blog](https://blog.dcdc.io/)
+### DCDC - [Blog](https://blog.dcdc.io/)
 A block-chain solution for controlling, managing and sharing parts of your own identity.This originated from a hackathon in London over a 24 hour period and is being expanded in our free time to become a usable platform in the future. Founding member and contributor.
 ### AtomicWars - [Atom.io](https://atom.io/packages/atomic-wars) - [GitHub](https://github.com/JamesTurnerGit/Atomic-Wars)
 As part of a team worked on a plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This plugin also uploads your completed kata up to GitHub when you’ve submitted them. 
