@@ -18,7 +18,7 @@ Helped run and organise a block-chain hackathon. Was involved from the very init
 
 Mentored a new starter to take on previous role and later into a further role as another Software Engineer. Mentored other employees on starting their own dynamic web projects until they were able to progress the project by themselves.
 
-Helped two teams transition from a scrum methodology to a Kan-ban approach.
+Helped two teams transition from a scrum methodology to a Kanban approach.
 #### QA Engineer Oct 2017 — Apr 2018 
 Wrote several testing packages from scratch, including one that was able to do front-end and interaction testing on Power BI, and another that was able to parse report outputs in a convenient and straightforward way.
 
