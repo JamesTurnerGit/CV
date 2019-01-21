@@ -33,7 +33,7 @@ Built upon my foundation of self-taught learning by studying new concepts like T
 
 Responsible for processing large point clouds gathered from LiDAR scanners into accurate computer simulations of overhead power-lines and other utilities. During my time here my love for coding and puzzle solving was reignited. 
 
-Fixed a systematic issue with a massive ground model with a custom script. saved several thousand pounds in man-hours alone. Decided to go into programming as a career because this event was so fufilling.
+Fixed a systematic issue with a massive ground model with a custom script. saved several thousand pounds in man-hours alone. Decided to go into programming as a career because this event was so personally fulfilling.
 
 Solved a lot of additional problems in production by continuing to write scripts in Python and MicroStation Basic.
 
