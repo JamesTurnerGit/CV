@@ -5,9 +5,9 @@ A full-stack multi-language developer with two years of experience. at home when
 
 ## <a name="skills">Skills and Technologies</a>
 ``` 
-  JavaScript       Polymer 3.0     Selenium         TDD/BDD        Ruby-on-rails     C#
-  Node.js          Gerkin          PowerBi          BlockChain     Python            .net
-  Azure DevOps     CosmosDB        ServiceFabric    CouchDB
+  JavaScript       Polymer 3.0     Selenium          TDD/BDD    Ruby-on-rails     
+  Node.js          PowerBi         BlockChain        Python     .net
+  Azure DevOps     CosmosDB        ServiceFabric     CouchDB    C#
 ```
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
