@@ -4,11 +4,11 @@
 A full-stack multi-language developer with two years of experience. at home when problem-solving and working in agile teams. Welcomes fresh challenges and learning new skills. Always looking for ways to improve.
 
 ## <a name="skills">Skills and Technologies</a>
-<pre>
-  JavaScript      Polymer 3.0   Selenium         TDD/BDD       Ruby-on-rails    C#
-  Node.js         Gerkin        PowerBi          BlockChain    Python           .net
-  Azure DevOps    CosmosDb      ServiceFabric    CouchDb
-</pre>
+``` 
+  JavaScript        Polymer 3.0     Selenium           TDD/BDD         Ruby-on-rails      C#
+  Node.js           Gerkin          PowerBi            BlockChain      Python             .net
+  Azure DevOps      CosmosDb        ServiceFabric      CouchDb
+```
 ## <a name="experience">Experience</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
