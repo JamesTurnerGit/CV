@@ -6,10 +6,10 @@ A full-stack multi-language developer with two years of experience. at home when
 ## <a name="skills">Skills and Technologies</a>
 ``` 
   JavaScript       Polymer 3.0     Selenium          TDD/BDD    Ruby-on-rails     
-  Node.js          PowerBi         Block-chain       Python     .net
+  Node.js          PowerBI         Block-chain       Python     .net
   Azure DevOps     CosmosDB        ServiceFabric     CouchDB    C#
 ```
-## <a name="experience">Experience and education</a> 
+## <a name="experience">Experience and Education</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
 Worked with a team on developing a progressive web app that runs off a micro-services based back-end that integrates with Microsoft Dynamics 365. The app synchronises across multiple devices and runs on any modern device and is offline-first. Made significant contributions to the front and back-end of the app. Was involved heavily in the design process.
@@ -26,11 +26,12 @@ Worked on the testing project for the main product, renovating and refactoring l
 
 Ran full scale regression testing on the company's main product before major releases and wrote up documentation and procedures surrounding it.
 
-### Makers Academy 2017
+### Makers Academy 
+#### Student 2017
 Built upon my foundation of self-taught learning by studying new concepts like TDD, SOLID, MVC and more. This changed my patterns of thinking about programming to result in writing much neater code than before I started.
 
-### NM group Oct 2012- Dec 2016 
-
+### NM Group 
+#### GIS Analyst Oct 2012- Dec 2016 
 Responsible for processing large point clouds gathered from LiDAR scanners into accurate computer simulations of overhead power-lines and other utilities. During my time here my love for coding and puzzle solving was reignited. 
 
 Fixed a systematic issue with a massive ground model with a custom script. saved several thousand pounds in man-hours alone. Decided to go into programming as a career because this event was so personally fulfilling.
