@@ -6,21 +6,23 @@ A full-stack multi-language developer with two years of experience. at home when
 ## <a name="skills">Skills and Technologies</a>
 ``` 
   JavaScript       Polymer 3.0     Selenium          TDD/BDD    Ruby-on-rails     
-  Node.js          PowerBi         BlockChain        Python     .net
+  Node.js          PowerBi         Block-chain       Python     .net
   Azure DevOps     CosmosDB        ServiceFabric     CouchDB    C#
 ```
-## <a name="experience">Experience</a> 
+## <a name="experience">Experience and education</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
-Worked with a team on developing a progressive web app that runs off a microservices based backend that integrates with Microsoft Dynamics 365. The app synchronises accross multiple devices and runs on any modern device and is offline-first. Made significant contributions to the front and backend of the app.
+Worked with a team on developing a progressive web app that runs off a micro-services based back-end that integrates with Microsoft Dynamics 365. The app synchronises across multiple devices and runs on any modern device and is offline-first. Made significant contributions to the front and back-end of the app. Was involved heavily in the design process.
 
-Helped run and organise a blockchain hackathon. Was involved from the very initial planning stages to the latenight cleanup. Event concluded very successfully and was a lot of fun.
+Helped run and organise a block-chain hackathon. Was involved from the very initial planning stages to the late night cleanup. Event concluded very successfully and was a lot of fun.
 
-Helped teams transition from a scrum methodology to a Kanban approach.
+Mentored a new starter to take on previous role and later into a further role as another Software Engineer. Mentored other employees on starting their own dynamic web projects until they were able to progress the project by themselves.
+
+Helped two teams transition from a scrum methodology to a Kan-ban approach.
 #### QA Engineer Oct 2017 — Apr 2018 
 Wrote several testing packages from scratch, including one that was able to do front-end and interaction testing on Power BI, and another that was able to parse report outputs in a convenient and straightforward way.
 
-Worked on the testing project for the main product, renovating and refactoring large sections and improving performance and ease of use while driving up-skilling for the QA team.
+Worked on the testing project for the main product, renovating and refactoring large sections and improving performance and ease of use while driving upskilling for the QA team.
 
 Ran full scale regression testing on the company's main product before major releases and wrote up documentation and procedures surrounding it.
 
@@ -29,9 +31,9 @@ Built upon my foundation of learning by studying new concepts like TDD, SOLID, M
 
 ### NM group 2012-2016 
 
-Responsible for processing large point clouds gathered from LiDAR scanners into accurate computer simulations of overhead powerlines and other utilities. During my time here my love for coding and puzzle solving was reignited. 
+Responsible for processing large point clouds gathered from LiDAR scanners into accurate computer simulations of overhead power-lines and other utilities. During my time here my love for coding and puzzle solving was reignited. 
 
-The key moment of this was during a job surveying Britain’s railways where we had a systematic issue with our ground model. Normally we’d have to do rework from scratch to solve this and that’d cost several thousand pounds in man-hours alone. On my own initiative, I wrote a script that was able to find and correct the issues without damaging the rest of the data. From then on the script was used regularly throughout the day by our processors. 
+Fixed a systematic issue with a massive ground model with a custom script. saved several thousand pounds in man-hours alone. Decided to go into programming as a career
 
 Solved a lot of additional problems in production by continuing to write scripts in Python and MicroStation Basic.
 
@@ -40,13 +42,14 @@ Worked effectively on a small team which hit deadlines consistently.
 ***
 ## <a name="projects">Projects & Code</a>
 ### DCDC - [blog](https://blog.dcdc.io/)
-A blockchain solution for controlling, managing and sharing parts of your own identity.This originated from a hackathon in London over a 24 hour period and is being expanded in our free time to become a usable platform in the future.
+A block-chain solution for controlling, managing and sharing parts of your own identity.This originated from a hackathon in London over a 24 hour period and is being expanded in our free time to become a usable platform in the future. Founding member and contributing free time into development
 ### AtomicWars - [Atom.io](https://atom.io/packages/atomic-wars) - [GitHub](https://github.com/JamesTurnerGit/Atomic-Wars)
-A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This plugin also uploads your completed kata up to GitHub when you’ve submitted them.
+A plugin for Atom that Interfaces with the CodeWars.com API to pull down kata for you to solve and displays them in Atom so you can complete them in your preferred environment. This plugin also uploads your completed kata up to GitHub when you’ve submitted them. worked as a developer
 ### Thunder Warriors - [Web Demo](http://thunder-warriors.herokuapp.com/) - [GitHub](https://github.com/treborb/thunder-warriors)
-A tower defence game built in Unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot about technical debt and refactoring. 
-
+A tower defence game built in Unity. While the main goal of undertaking the project was to familiarise myself with C# development, we ended up learning a lot about technical debt and refactoring. worked as a developer
 ***
 ## <a name="interests">Interests</a>
-<pre>  Problem solving      Board Games     puzzles     climbing     kick-boxing</pre>
+```
+Problem solving      Board Games     puzzles     climbing     kick-boxing
+```
 
