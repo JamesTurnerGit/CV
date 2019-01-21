@@ -12,7 +12,7 @@ A full-stack multi-language developer with two years of experience. at home when
 ## <a name="experience">Experience and Education</a> 
 ### LexisNexis-Enterprise Solutions
 #### Software Engineer Apr 2018 — present
-Worked with a team on developing a progressive web app that runs off a micro-services based back-end that integrates with Microsoft Dynamics 365. The app synchronises across multiple devices and runs on any modern device and is offline-first. Made significant contributions to the front and back-end of the app. Was involved heavily in the design process.
+Worked with a team on developing a progressive web app that runs off a micro-services based back-end that integrates with Microsoft Dynamics 365. The app synchronises across multiple devices and runs on any modern device and is offline-first. Made significant contributions to the front and back-end of the app and was involved heavily in the design process.
 
 Helped run and organise a block-chain hackathon. Was involved from the very initial planning stages to the late night cleanup. Event concluded very successfully and was a lot of fun.
 
@@ -20,7 +20,7 @@ Mentored a new starter to take on previous role and later into a further role as
 
 Helped two teams transition from a scrum methodology to a Kanban approach.
 #### QA Engineer Oct 2017 — Apr 2018 
-Wrote several testing packages from scratch, including one that was able to do front-end and interaction testing on Power BI, and another that was able to parse report outputs in a convenient and straightforward way.
+Wrote several testing packages from scratch, including one that was able to do front-end and interaction testing on Power BI, and another that was able to parse report outputs in a convenient and straightforward way by providing a way to compare an OpenXML object with a gerkin table.
 
 Worked on the testing project for the main product, renovating and refactoring large sections and improving performance and ease of use while driving upskilling for the QA team.
 
@@ -32,13 +32,11 @@ Built upon my foundation of self-taught learning by studying new concepts like T
 
 ### NM Group 
 #### GIS Analyst Oct 2012 — Dec 2016 
-Responsible for processing large point clouds gathered from LiDAR scanners into accurate computer simulations of overhead power-lines and other utilities. During my time here my love for coding and puzzle solving was reignited. 
+Responsible for processing large point clouds gathered from LiDAR scanners into accurate computer simulations of overhead power-lines and other utilities. Worked effectively on a small team which hit deadlines consistently.
 
-Fixed a systematic issue with a massive ground model with a custom script. saved several thousand pounds in man-hours alone. Decided to go into programming as a career because this event was so personally fulfilling.
+Fixed a systematic issue with a massive ground model with a custom script in MicroStation Basic. This script saved several thousand pounds in man-hours alone. Decided to go into programming as a career because this event was so personally fulfilling.
 
 Solved a lot of additional problems in production by continuing to write scripts in Python and MicroStation Basic.
-
-Worked effectively on a small team which hit deadlines consistently.
 
 ***
 ## <a name="projects">Projects & Code</a>
