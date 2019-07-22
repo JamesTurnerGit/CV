@@ -1,3 +1,5 @@
+#This document has been converted into more standard formats and updated, available upon request
+
 # James Turner
 [skills/technologies](#skills) | [Experience](#experience) | [Projects](#projects) | [Interests](#interests)
 
